@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bye
+=======
+hi -dhana
+>>>>>>> origin/main
 
