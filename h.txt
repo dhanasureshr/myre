@@ -1,5 +1,2 @@
-
-suresh
-,ok man 
-
+this is the file modification to check my understanding on branching concept to make conflic free merges to the main branching
 
