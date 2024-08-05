@@ -1,5 +1,11 @@
+publis calss music_player{
+	public static void main(String args){
+	
+		System.out.println("hi dhana suresh");
+	}
+	
+}
 
-suresh
-,ok man 
+
 
 
