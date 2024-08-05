@@ -1,4 +1,7 @@
-this is the file modification to check my understanding on branching concept to make conflic free merges to the main branching
-// now updated this from the feature2 branch 
-this is the modification from the feature2 branch to chek my understanding on branching
-
+publis calss music_player{
+	public static void main(String args){
+	
+		System.out.println("hi dhana suresh");
+	}
+	
+}
