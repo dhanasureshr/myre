@@ -5,7 +5,3 @@ publis calss music_player{
 	}
 	
 }
-
-
-
-
