@@ -4,4 +4,11 @@ publis calss music_player{
 		System.out.println("hi dhana suresh");
 	}
 	
+	public Exoplayer initilize_player(){
+	
+		Exoplayer player = new Exoplayer(this);
+		
+		return player;
+	}
+	
 }
